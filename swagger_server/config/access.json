@@ -1,0 +1,16 @@
+{
+    "DB": {
+        "POSTGRES": {
+            "TASK": {
+                "HOST": "localhost",
+                "DB_NAME": "test",
+                "USER": "postgres",
+                "PASSWORD": "Kegoal2018"
+            }
+        }
+    },
+    "EMAIL": {
+        "USER_EMAIL": "saucedok@globalhitss.com",
+        "USER_PASSWORD": "Kego@l05"
+    }
+}
